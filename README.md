@@ -1,4 +1,4 @@
-## Oiii eu sou o Bruno Mesquita, estudante de estatística e amante de tecnologia!
+## Helloooo I am Bruno Mesquita, a statistics student and technology enthusiast!
 
 <div style="display: inline_block" align="center">
   
