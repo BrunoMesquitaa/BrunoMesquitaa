@@ -1,4 +1,4 @@
-## Helloooo I am Bruno Mesquita, a statistics student and technology enthusiast!
+## <div align="center"> Helloooo I am Bruno Mesquita, a statistics student and technology enthusiast!</div>
 
 <div style="display: inline_block" align="center">
   
@@ -7,12 +7,18 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMesquitaa&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+ ##
  
-As a data professional, I have experience in several areas of data science, including creating Rest APIs in Python using the FastAPI framework, creating containers with Docker, container orchestration through Kubernetes, code versioning with Git/GitHub, creating ETLs with Python and Pyspark, CI/CD with Git Actions, and using AWS Cloud services.
+<div style="display: inline_block" align="center">
+  As a data professional, I have experience in several areas of data science, including creating Rest APIs in Python using the FastAPI framework, creating containers with Docker, container orchestration through Kubernetes, code versioning with Git/GitHub, creating ETLs with Python and Pyspark, CI/CD with Git Actions, and using AWS Cloud services.
 
-Currently, I am studying Statistics at the Federal University of Uberlândia, and I am excited to apply what I learn in my professional projects. I am quick to learn new tools and comfortable working with spatial data, and can competently work in any area of data.
+  Currently, I am studying Statistics at the Federal University of Uberlândia, and I am excited to apply what I learn in my professional projects. I am quick to learn new tools and comfortable working with spatial data, and can competently work in any area of data.
 
-My main skills include programming in R, Python, SQL, and Pyspark.
+  My main skills include programming in R, Python, SQL, and Pyspark.
+</div>
+
+##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
