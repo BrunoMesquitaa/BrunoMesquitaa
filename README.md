@@ -43,3 +43,7 @@
   <a href="https://www.linkedin.com/in/bruno-mesquita-dos-santos-b79262169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br><p align="center"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagof2755}/count.svg" /></p> 
+<br></div>
