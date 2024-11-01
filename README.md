@@ -11,7 +11,7 @@
  ##
  
 <div style="display: inline_block" align="center">
-  As a data professional, I have experience in several areas of data science, including creating Rest APIs in Python using the FastAPI framework, creating containers with Docker, container orchestration through Kubernetes, code versioning with Git/GitHub, creating ETLs with Python and Pyspark, CI/CD with Git Actions, and using AWS Cloud services.
+  As a data professional, I have experience in several areas of Data Engineering, including creating Rest APIs in Python using the FastAPI framework, creating containers with Docker, container orchestration through Kubernetes, code versioning with Git/GitHub, creating ETLs with Python and Pyspark, CI/CD with Git Actions, and using AWS Cloud services.
 
   Currently, I am studying Statistics at the Federal University of Uberlândia, and I am excited to apply what I learn in my professional projects. I am quick to learn new tools and comfortable working with spatial data, and can competently work in any area of data.
 
